@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\persona\\Documents\\GitHub\\JuegodeROL\\Rol\\",
+  "WorkspaceRootPath": "C:\\Users\\Giovanni\\Documents\\GitHub\\JuegodeROL\\Rol\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4135DBDD-7989-415F-ABC4-19D7AA28FCB5}|Rol\\Rol.vcxproj|C:\\Users\\persona\\Documents\\GitHub\\JuegodeROL\\Rol\\Rol\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{4135DBDD-7989-415F-ABC4-19D7AA28FCB5}|Rol\\Rol.vcxproj|C:\\Users\\Giovanni\\Documents\\GitHub\\JuegodeROL\\Rol\\Rol\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4135DBDD-7989-415F-ABC4-19D7AA28FCB5}|Rol\\Rol.vcxproj|solutionrelative:Rol\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\persona\\Documents\\GitHub\\JuegodeROL\\Rol\\Rol\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\Giovanni\\Documents\\GitHub\\JuegodeROL\\Rol\\Rol\\main.cpp",
               "RelativeDocumentMoniker": "Rol\\main.cpp",
-              "ToolTip": "C:\\Users\\persona\\Documents\\GitHub\\JuegodeROL\\Rol\\Rol\\main.cpp",
+              "ToolTip": "C:\\Users\\Giovanni\\Documents\\GitHub\\JuegodeROL\\Rol\\Rol\\main.cpp",
               "RelativeToolTip": "Rol\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-28T19:21:45.984Z",
               "EditorCaption": ""
